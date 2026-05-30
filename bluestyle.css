@@ -4,3 +4,14 @@ background-color:lightblue;
 h1{
 color:navy;
 margin-left:20px;
+padding:5px;
+text-align: center;
+}
+p{
+font-family: verdana;font-size: 20px;
+color:rgba(209, 38, 8, 0.849)}
+
+img{
+    height: 300px;
+    width:scroll;
+}
