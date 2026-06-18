@@ -1,0 +1,96 @@
+[33mcommit ab6a0374252ed7d345a8a7b9cf4f67143af96268[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: e6214c6 bf8ef01
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Sat May 30 09:41:35 2026 +0300
+
+    Merge pull request #7 from Stanley-crt/main
+    
+    Master
+
+[33mcommit bf8ef016b8da215e6dcf4ff31892cc14c7dfdb02[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e51688d 6651726
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Fri May 29 14:00:29 2026 +0300
+
+    Merge pull request #4 from Stanley-crt/update-readme
+    
+    Merge pull request #3 from Stanley-crt/main
+
+[33mcommit 6651726b7614587fee2c3ea8dc1072f8b6600e44[m
+Merge: e6214c6 e51688d
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Fri May 29 13:42:41 2026 +0300
+
+    Merge pull request #3 from Stanley-crt/main
+    
+    Update-Readme
+
+[33mcommit e51688ded311a54b86b03da00e8ae2783be1dc01[m
+Merge: c391fa5 5a4c0fb
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Fri May 29 13:37:55 2026 +0300
+
+    Merge pull request #2 from Stanley-crt/Miles
+    
+    Merge pull request #1 from Stanley-crt/main
+
+[33mcommit 5a4c0fb4366465915b0a80e5bb70137c23615c16[m
+Merge: e6214c6 c391fa5
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Fri May 29 13:36:21 2026 +0300
+
+    Merge pull request #1 from Stanley-crt/main
+    
+    Friday
+
+[33mcommit c391fa54760120a1eef4f43521c72376e3d58e04[m
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Fri May 29 13:03:07 2026 +0300
+
+    Create SECURITY.md
+
+[33mcommit 9fed53f796afc9bc6e405b4ee4786b39fe71ac6c[m
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Fri May 29 12:36:09 2026 +0300
+
+    Updated buff.html Resized image
+
+[33mcommit 5d18c4c7b66d52e8685884d0546f461d1c17bfe6[m
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Fri May 29 12:28:53 2026 +0300
+
+    Update README.md
+
+[33mcommit c4abdc9680269d89b869a83d8f141e96ac585515[m
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Fri May 29 12:28:06 2026 +0300
+
+    Update README with additional GitHub steps
+    
+    Added steps for using GitHub to the README.
+
+[33mcommit d25f16c4698588c63890259e2b7fb2c4a59abd81[m
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Wed May 27 23:49:40 2026 +0300
+
+    Update README.md
+
+[33mcommit c5bfd3cfbc18775108333634c1dd13fe6b8fa623[m
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Wed May 27 23:48:21 2026 +0300
+
+    Enhance README with images and project updates
+    
+    Added images and updated project description.
+
+[33mcommit 445b4042c41512bd5a80db852856a010457f2623[m
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Wed May 27 23:34:16 2026 +0300
+
+    Updated buff.html. Resized image
+
+[33mcommit e6214c698c0f81aab7ab84a2be46d5d6c6e9062e[m
+Author: Stanley-crt <odhiambostanley19@gmail.com>
+Date:   Wed May 27 23:16:47 2026 +0300
+
+    Initial commit
