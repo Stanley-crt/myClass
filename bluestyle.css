@@ -10,7 +10,9 @@ text-align: center;
 }
 p{
 font-family: verdana;font-size: 20px;
-color:rgba(209, 38, 8, 0.849)}
+color:rgba(209, 38, 8, 0.849)
+text-align:auto;
+}
 
 img{
     height: 300px;
