@@ -36,7 +36,7 @@ video{
     margin-top: 20px;
     align-items: center;
 }
-h1{
+h1,h2 {
     font-family: 'Arial', sans-serif;
     color: #350dd6;
     text-align: center;
