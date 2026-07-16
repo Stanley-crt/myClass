@@ -12,7 +12,7 @@ body {
 #poo  {
     color: blue;
     font-size: 18px;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Arial', system-ui, sans-serif;
     text-align: center;
 }
  div {
@@ -23,6 +23,6 @@ body {
 p {
     color:black;
     font-size: 16px;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Arial', system-ui, sans-serif;
 }
 }
