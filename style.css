@@ -5,10 +5,11 @@ body {
     color: blue;
     margin-inline:60px
   }
-    video,img{
+       video{
         width: 250px;
         height: 250px;
-    }
+       }
+     
 #poo  {
     color: blue;
     font-size: 18px;
