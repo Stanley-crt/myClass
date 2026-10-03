@@ -1,6 +1,6 @@
 body {
     background-color: whitesmoke;
-  h1{
+  h1,h2{
     font-size:30px;
     color: blue;
     margin-inline:60px
